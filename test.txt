@@ -1,0 +1,2 @@
+test for Git.
+The delete commit.
